@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2025-01-09",
-      "codified-date": "2024-03-05",
+      "codified-date": "2024-03-21",
       "platform": {
         "reproducible": "true",
         "version": "2.14.14"
@@ -14,7 +14,7 @@
           "name": "cityofamericancanyon/law-xml"
         },
         {
-          "commit": "6731b7bf4db14ffad116fdb29d1d5e3626741a64",
+          "commit": "279509dcc1fc4e4a9fd8bdb0f74a8c16d7ebfb52",
           "name": "cityofamericancanyon/law-xml-codified"
         }
       ]
