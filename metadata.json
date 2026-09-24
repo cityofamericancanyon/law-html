@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2026-09-24",
+      "codified-date": "2023-06-01",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.22.6"
+      },
+      "publication": "publication/2026-09-24",
+      "repositories": [
+        {
+          "commit": "b2321c8f048fdc8b3ea24edc7ced2f8705658387",
+          "name": "cityofamericancanyon/law-xml"
+        },
+        {
+          "commit": "be2e0bd6add1730196598fe285c860b8123a0646",
+          "name": "cityofamericancanyon/law-xml-codified"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": "https://law.cityofamericancanyon.org",
+      "html-bulk": "https://github.com/cityofamericancanyon/law-html",
+      "law-git": "https://github.com/cityofamericancanyon/law.git",
+      "static-assets": "https://github.com/cityofamericancanyon/law-static-assets",
+      "xml-bulk": "https://github.com/cityofamericancanyon/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2023-06-01"
+  }
+}
